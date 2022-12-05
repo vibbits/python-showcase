@@ -7,3 +7,8 @@ dist/
 
 # NPM
 node_modules/
+
+# Notebooks
+src/.ipynb_checkpoints
+src/hh
+src/obsolete
